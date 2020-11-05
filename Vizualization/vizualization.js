@@ -1,4 +1,3 @@
-// for more info see https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-area-circ-challenge/v/radius-change-impact
 
 const delay = 5000; //number of milliseconds to wait before updating the explanation text
 const animationDuration = 5000;
