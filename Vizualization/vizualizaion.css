@@ -1,0 +1,19 @@
+body {
+    overflow: hidden;
+}
+#vizContainer {
+   position: relative;
+   left: 0px;
+   top: 0px;
+   width: 100%;
+   height: 90%;
+   overflow: hidden;
+}
+#explanation {
+    width: 100%;
+    height: 10%;
+    font-size: 5min;
+}
+#explanationContainer {
+    padding: 10px;
+}
