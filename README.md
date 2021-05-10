@@ -9,3 +9,5 @@
     <li>Javascript</li>
 </ul>
 
+[![Github All Releases](https://img.shields.io/github/downloads/dikshitakambri/JS-Animation/total.svg)]()
+
